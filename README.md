@@ -6,12 +6,11 @@ anomaly detection algorithms for time-domain astronomy</h1>
 If you find this code useful, feel free to cite [our paper](https://arxiv.org/pdf/2009.06760.pdf):
 
 ```bibtex
-@misc{entropix,
-  title={Where is Waldo (and his friends)? A comparison of
-anomaly detection algorithms for time-domain astronomy},
-  author={J. Rafael Martinez-Galarza, Federica Bianco, Dennis Crake, Kushal Tirumala, Ashish A. Mahabal, Matthew J. Graham, Daniel Giles},
-  year={2021},
-  eprint={arXiv:2009.06760}
+@article{martinez2020waldo,
+  title={Where is Waldo (and his friends)? A comparison of anomaly detection algorithms for time-domain astronomy},
+  author={Mart{\'\i}nez-Galarza, Juan Rafael and Bianco, Federica and Crake, Dennis and Tirumala, Kushal and Mahabal, Ashish A and Graham, Matthew J and Giles, Daniel},
+  journal={arXiv preprint arXiv:2009.06760},
+  year={2020}
 }
 ```
 
