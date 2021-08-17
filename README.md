@@ -3,7 +3,7 @@ anomaly detection algorithms for time-domain astronomy</h1>
 
 ## Citation
 
-If you find this code useful, feel free to cite [our paper](https://arxiv.org/pdf/2009.06760.pdf):
+If you find this code useful, please cite [our paper](https://arxiv.org/pdf/2009.06760.pdf):
 
 ```bibtex
 @article{martinez2020waldo,
