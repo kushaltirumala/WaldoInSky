@@ -16,4 +16,4 @@ If you find this code useful, please cite [our paper](https://arxiv.org/pdf/2009
 
 ## License
 
-We are making our algorithm available under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+We are making our code available under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
